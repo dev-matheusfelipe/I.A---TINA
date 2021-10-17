@@ -1,8 +1,8 @@
 # I.A - TINA
 
 
-IA para navegador, porem eu fiz alguns comando parecidas com a famosa alexa.<br>
-Utilizei a API Artyom.js para prdução dessa IA.
+I.A para navegador, porem eu fiz alguns comando parecidas com a famosa alexa.<br>
+Utilizei a **API Artyom.js** para prdução dessa IA.
 
 ## Image
 <div align="center"> 
