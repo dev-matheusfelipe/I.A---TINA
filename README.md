@@ -2,7 +2,7 @@
 
 
 I.A para navegador, porem eu fiz alguns comando parecidas com a famosa alexa.<br>
-Utilizei a **API Artyom.js** para prdução dessa IA.
+Utilizei a **API Artyom.js** para produção dessa I.A
 
 ## Image
 <div align="center"> 
@@ -22,7 +22,7 @@ Utilizei a **API Artyom.js** para prdução dessa IA.
 
 ## Comandos
 
-Use esses comandos para IA lhe resposnder.
+Use esses comandos para I.A lhe resposnder.
 
 - Comandos
 - Iniciar Sistema
@@ -97,4 +97,4 @@ Esse Arquivo é livre para você fazer alterações como quiser.
 
 MIT
 
-**Free project, by Matheus Fellype!**
+**Free project, by Matheus Fellype!   I.A - Tina**
