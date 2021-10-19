@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.conte img {
+    width: 200px;
+    position: absolute;
+    top: 350px;
+    left: 600px;
+}
+
+.conte span {
+    width: 570px;
+    position: absolute;
+    top: 350px;
+    left: -600px;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    color: #9CA5C1;
+    z-index: 5000;
+    box-shadow: 1px rgba(255, 255, 255, .8);
+    position: absolute;
+}
+
+.relogio img {
+    position: absolute;
+    top: -480px;
+    left: 585px;
+    z-index: 500;
+    transform: rotateY(180deg);
+}
+
+.relogio p {
+    position: absolute;
+    top: -325px;
+    left: 683px;
+    font-size: 12px;
+    font-family: 'Nunito', sans-serif;
+    color: #9CA5C1;
+    z-index: 5500;
+    text-transform: uppercase;
+}
+
+.relogio span {
+    position: absolute;
+    top: -310px;
+    left: 666px;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    color: #2D6B8C;
+    z-index: 5500;
+}
+
+.texto-fala {
+    width: 570px;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    color: #3a86ff;
+    z-index: 5000;
+    box-shadow: 1px rgba(255, 255, 255, .8);
+    position: absolute;
+}
+
+#btn {
+    z-index: 10000;
+    cursor: pointer;
+}
+
+.btn img {
+    width: 100px;
+    position: absolute;
+    top: -495px;
+    left: -920px;
+    cursor: pointer;
+    animation-delay: 2s;
+    animation: pulse 3s infinite;
+    margin: 0 auto;
+    display: table;
+    margin-top: 50px;
+    animation-direction: alternate;
+}
+
+.btn span {
+    position: absolute;
+    top: -355px;
+    left: -890px;
+    font-family: 'Nunito', sans-serif;
+    color: #3a86ff;
+}
+  
+@keyframes pulse {
+    0% {
+        opacity: 0.3;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+
+
+  
